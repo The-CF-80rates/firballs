@@ -1,0 +1,2 @@
+
+Spivee: I think that crafting shouldn't consume resources when making projectiles, as with firearms in spelunky, but there should be an 'imbue' process that uses an object as the projectile, whether it be a rock, a tool or your own sword, and the effects of imbue are permanent but the resources are consumed.
